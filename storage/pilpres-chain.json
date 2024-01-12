@@ -1,0 +1,64 @@
+[
+    {
+        "data": "Genesis block",
+        "timestamp": "01/01/2024",
+        "previousHash": "0",
+        "hash": "d26737b85975292ae15bb85650e03c1321bd5443cae3b839652aee65c0676a88",
+        "nonce": 0
+    },
+    {
+        "data": {
+            "nik": "3374121709030003",
+            "namaIbuKandung": "Ratih Evawani",
+            "pilihan": "2"
+        },
+        "timestamp": 1704634747517,
+        "previousHash": "d26737b85975292ae15bb85650e03c1321bd5443cae3b839652aee65c0676a88",
+        "hash": "00008a951d18676d23920151f5e0ee0849522d90751e23b3676753884e7c38b4",
+        "nonce": 106638
+    },
+    {
+        "data": {
+            "nik": "123",
+            "namaIbuKandung": "a",
+            "pilihan": "3"
+        },
+        "timestamp": 1704638458080,
+        "previousHash": "00008a951d18676d23920151f5e0ee0849522d90751e23b3676753884e7c38b4",
+        "hash": "0000214c5d04ac5a72c79dc662f6d2a5252481a53e31bb85b98c86172f42355c",
+        "nonce": 83328
+    },
+    {
+        "data": {
+            "nik": "312",
+            "namaIbuKandung": "b",
+            "pilihan": "1"
+        },
+        "timestamp": 1704638573344,
+        "previousHash": "0000214c5d04ac5a72c79dc662f6d2a5252481a53e31bb85b98c86172f42355c",
+        "hash": "0000043964837acc360f07618db52a6d046ec3dbd81d69a0b2532b269690d86f",
+        "nonce": 117128
+    },
+    {
+        "data": {
+            "nik": "00001",
+            "namaIbuKandung": "SRI RAHAYU",
+            "pilihan": "3"
+        },
+        "timestamp": 1704943392416,
+        "previousHash": "0000043964837acc360f07618db52a6d046ec3dbd81d69a0b2532b269690d86f",
+        "hash": "000097386ca94aca75557e8a97119b37f25c55c813f77afd66b1d05a495c7033",
+        "nonce": 154846
+    },
+    {
+        "data": {
+            "nik": "00002",
+            "namaIbuKandung": "SRI WAHYUNI",
+            "pilihan": "2"
+        },
+        "timestamp": 1704943454756,
+        "previousHash": "000097386ca94aca75557e8a97119b37f25c55c813f77afd66b1d05a495c7033",
+        "hash": "00003fcb3a70f3530295dc95f869f4aeb7569cb421b0745ffc1ae7d4830ba6d9",
+        "nonce": 6341
+    }
+]

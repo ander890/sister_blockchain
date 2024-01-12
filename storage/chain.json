@@ -1,0 +1,64 @@
+[
+    {
+        "data": "Genesis block",
+        "timestamp": "01/01/2022",
+        "previousHash": "0",
+        "hash": "2dbe47aa4c0e1160dc144d40c3fa9d991fff4303a32932588a44a85c5353387b",
+        "nonce": 0
+    },
+    {
+        "data": {
+            "product": {
+                "serialNumber": "VAU.045A.801.410",
+                "productName": "VENTELA YANG AYAM - SANG SEKERTA HIGH",
+                "purchaseStore": "ORIKU",
+                "sales": "daniel@mail.com",
+                "purchaseDate": "2022-12-01"
+            },
+            "name": "Daniel Alexander",
+            "address": "Jl CItra Pesona A6 Semarang",
+            "phone": "08990727766"
+        },
+        "timestamp": 1672039496690,
+        "previousHash": "2dbe47aa4c0e1160dc144d40c3fa9d991fff4303a32932588a44a85c5353387b",
+        "hash": "0000c348adcf0716cc4feab71fa1191b834a7e9ea813af085f044141a714e59b",
+        "nonce": 62864,
+        "_locals": {}
+    },
+    {
+        "data": {
+            "product": {
+                "serialNumber": "378037001",
+                "productName": "AIR JORDAN RETRO",
+                "purchaseStore": "ORIKU",
+                "sales": "daniel@mail.com",
+                "purchaseDate": "2022-12-26"
+            },
+            "name": "Daniel Alexander",
+            "address": "Jl Citra Pesona A6",
+            "phone": "08990727766"
+        },
+        "timestamp": 1672040872264,
+        "previousHash": "0000c348adcf0716cc4feab71fa1191b834a7e9ea813af085f044141a714e59b",
+        "hash": "0000c49c57e945a12c2a4cbee41665993dbaf3270046bbdd29c20d8acdb2444f",
+        "nonce": 66692
+    },
+    {
+        "data": {
+            "product": {
+                "serialNumber": "0123456789",
+                "productName": "SEPATU AIR JORDAN",
+                "purchaseStore": "ORIKU",
+                "sales": "daniel@mail.com",
+                "purchaseDate": "2022-12-26"
+            },
+            "name": "OMAR ",
+            "address": "JL Semarang",
+            "phone": "08990727766"
+        },
+        "timestamp": 1672042355695,
+        "previousHash": "0000c49c57e945a12c2a4cbee41665993dbaf3270046bbdd29c20d8acdb2444f",
+        "hash": "0000200a6781612ab0aca700335ae4f818f06bc4f1b62b911dc4f6d8b12a3501",
+        "nonce": 59047
+    }
+]
